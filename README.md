@@ -1,4 +1,4 @@
-[](https://github-readme-stats.vercel.app/api?username=RealClearwave)
+![Profile](https://github-readme-stats.vercel.app/api?username=RealClearwave)
 
 ---
 
