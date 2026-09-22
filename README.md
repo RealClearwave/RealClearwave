@@ -16,7 +16,7 @@ Software Engineering student focused on multimodal model post-training and relia
 
 - **AutoConcept** — First-author, training-free concept-guided reranking; accepted at **PRICAI 2026 (CCF-C)**. [[arXiv]](https://arxiv.org/abs/2609.01456) [[Paper]](https://realclearwave.github.io/assets/papers/autoconcept-pricai-2026.pdf)
 - **Multimodal UI Modeling** — Post-training and evaluation for UI understanding and interaction models.
-- **AMEND** — Multi-agent, constraint-aware text detoxification through specialized critics and minimal repair. [[Report]](https://realclearwave.github.io/assets/papers/amend-acl-report.pdf)
+- **AMEND** — Multi-agent, constraint-aware text detoxification through specialized critics and minimal repair. [[Report]](https://realclearwave.github.io/assets/papers/amend-technical-report.pdf)
 
 ## Experience
 
